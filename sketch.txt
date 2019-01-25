@@ -1,4 +1,4 @@
-The rainbow
+The rainbow and the unicorn
 
 purple
 pink
@@ -7,5 +7,6 @@ blue
 red
 yellow
 green
+UNICORN
 
 These are things that I like
