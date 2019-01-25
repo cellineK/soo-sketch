@@ -7,3 +7,5 @@ blue
 red
 yellow
 green
+
+These are things that I like
