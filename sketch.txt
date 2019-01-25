@@ -10,4 +10,6 @@ green
 sky blue
 UNICORN
 
+color of apple
+
 These are things that I like
